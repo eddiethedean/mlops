@@ -1,1 +1,1 @@
-A machine learning project. Building a mlops pipeline then deploying it to the cloud.
+A machine learning project. Building an mlops pipeline then deploying it to the cloud.
